@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/images/lbs-ai-lab-workshop-hero-1672.webp</image:loc>
+      <image:title>LBS AI Lab</image:title>
+      <image:caption>LBS AI Lab helps London Business School participants build AI products for LBS workflows</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/google-deepmind-logo-blue.png</image:loc>
+      <image:title>Google DeepMind</image:title>
+      <image:caption>Spring 2026 Batch partner</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-spring-2026.png</image:loc>
+      <image:title>Spring 2026 Batch social share image</image:title>
+      <image:caption>LBS AI Lab Spring 2026 Batch in partnership with Google DeepMind</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-spring-2026.png</image:loc>
+      <image:title>LBS AI Lab batches social share image</image:title>
+      <image:caption>Teams building AI products for LBS workflows</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-spring-2026.png</image:loc>
+      <image:title>Spring 2026 Batch social share image</image:title>
+      <image:caption>Nine LBS AI Lab teams building AI products for LBS workflows</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/mentors/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/mentors/akshay-nagpal.jpg</image:loc>
+      <image:title>Akshay Nagpal</image:title>
+      <image:caption>Technical reviews, implementation choices, and AI product shipping.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/mentors/ramakrishnan-lokanathan.jpg</image:loc>
+      <image:title>Ramakrishnan Lokanathan</image:title>
+      <image:caption>Agentic engineering, prototype architecture, and build velocity.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/mentors/rhea-bisaria.jpg</image:loc>
+      <image:title>Rhea Bisaria</image:title>
+      <image:caption>Product strategy, customer insight, and launch readiness.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/mentors/zara-mogadasi.jpg</image:loc>
+      <image:title>Zara Mogadasi</image:title>
+      <image:caption>Product discovery, user feedback loops, and clearer positioning.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/1mba/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-1mba.png</image:loc>
+      <image:title>1MBA social share image</image:title>
+      <image:caption>1MBA is developing an assistant that brings together readings, preparation and upcoming requirements from students’ Canvas courses.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/breadcrumb/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-breadcrumb.png</image:loc>
+      <image:title>Breadcrumb social share image</image:title>
+      <image:caption>Breadcrumb is developing personalised London event discovery and helping students connect with others interested in attending.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/briefd/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-briefd.png</image:loc>
+      <image:title>Briefd social share image</image:title>
+      <image:caption>One master calendar for LBS events, jobs, and opportunities.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/ems-plus-plus/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-ems-plus-plus.png</image:loc>
+      <image:title>EMS++ social share image</image:title>
+      <image:caption>A coherent curriculum planner for MBA elective selection and timetable management.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/eventos/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-eventos.png</image:loc>
+      <image:title>EventOS social share image</image:title>
+      <image:caption>AI-assisted club event planning, venue sizing, and form generation.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/funded/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-funded.png</image:loc>
+      <image:title>FundEd social share image</image:title>
+      <image:caption>A funding discovery and matching platform for prospective LBS students.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/lbs-compass/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-lbs-compass.png</image:loc>
+      <image:title>LBS Compass social share image</image:title>
+      <image:caption>A knowledge-base chatbot for incoming students navigating LBS.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/lbsone/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-lbsone.png</image:loc>
+      <image:title>LBSOne social share image</image:title>
+      <image:caption>LBSOne is developing a student app bringing academic, career, event, room booking and club services into one interface.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/london-eats-pal/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-london-eats-pal.png</image:loc>
+      <image:title>London Eats Pal social share image</image:title>
+      <image:caption>A discovery platform for top-rated cafes and restaurants near campus.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/off-campus-compass/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-off-campus-compass.png</image:loc>
+      <image:title>Off-Campus Compass social share image</image:title>
+      <image:caption>Off-Campus Compass is developing an onboarding assistant using approved LBS policies, documents and FAQs for incoming international students.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/ra1/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-ra1.png</image:loc>
+      <image:title>RA1 social share image</image:title>
+      <image:caption>RA1 is developing a club treasury assistant for expense submissions, receipt checks, approvals, reimbursement tracking and budget visibility.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/recruitsmart-lbs/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-recruitsmart-lbs.png</image:loc>
+      <image:title>RecruitSmart LBS social share image</image:title>
+      <image:caption>An AI-powered job search co-pilot built for LBS students.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/robotrade/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-robotrade.png</image:loc>
+      <image:title>RoboTrade social share image</image:title>
+      <image:caption>RoboTrade is developing a company research dashboard summarising filings, earnings calls, market data and news with source links.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/simply-ai/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-simply-ai.png</image:loc>
+      <image:title>Simply AI social share image</image:title>
+      <image:caption>Simply AI is developing indoor LBS campus navigation for rooms, facilities and step free routes using digitised floor plans.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/the-key-for-sussex/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-the-key-for-sussex.png</image:loc>
+      <image:title>The Key for Sussex social share image</image:title>
+      <image:caption>The Key for Sussex is developing a recruiting tracker bringing applications, deadlines, coffee chats and next actions together.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/vishmay/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-vishmay.png</image:loc>
+      <image:title>Vishmay social share image</image:title>
+      <image:caption>Vishmay is developing a housing platform connecting incoming students with compatible flatmates and current students handing over leases.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/wayfinder/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-wayfinder.png</image:loc>
+      <image:title>Wayfinder social share image</image:title>
+      <image:caption>A mobile guide to rooms and facilities across LBS campuses.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/zentra/</loc>
+    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://alecondorelli.github.io/lbsailab-preview/og-team-zentra.png</image:loc>
+      <image:title>Zentra social share image</image:title>
+      <image:caption>AI-generated client WIP updates and fee tracking for legal billing.</image:caption>
+    </image:image>
+  </url>
+</urlset>

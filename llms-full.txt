@@ -1,0 +1,202 @@
+# LBS AI Lab Full AI Discovery Context
+
+> LBS AI Lab helps London Business School participants build AI products for LBS workflows.
+
+This file gives AI assistants and crawlers a concise, canonical map of the public LBS AI Lab website. The canonical production domain is https://alecondorelli.github.io/lbsailab-preview.
+
+## Institutional Context
+- Site name: LBS AI Lab
+- Canonical domain: https://alecondorelli.github.io/lbsailab-preview
+- Parent institution: London Business School (https://www.london.edu/)
+- Initiative: Data Science & AI Initiative (https://www.london.edu/faculty-and-research/data-science-and-ai-initiative)
+- Spring 2026 Batch partner: Google DeepMind (https://deepmind.google/)
+- Purpose: help the LBS student community get more involved in AI solution development at the School
+- Model: batch cycles for discovery, product development, evaluation, and iteration
+
+## Canonical Public Pages
+- [Home](https://alecondorelli.github.io/lbsailab-preview/): LBS AI Lab helps London Business School participants build AI products for LBS workflows
+- [About](https://alecondorelli.github.io/lbsailab-preview/about/): The Lab's purpose, participant benefit, and batch model
+- [Batches](https://alecondorelli.github.io/lbsailab-preview/batches/): Directory of Fall and Spring 2026 batches and team pages
+- [Spring 2026 Batch](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/): Focused directory for Spring 2026 Batch teams
+- [Mentors](https://alecondorelli.github.io/lbsailab-preview/mentors/): Academic lead and product and technical mentors
+- [Apply](https://alecondorelli.github.io/lbsailab-preview/apply/): Register interest for the next batch
+- [Contact](https://alecondorelli.github.io/lbsailab-preview/contact/): Contact routes for Lab enquiries
+- [HTML sitemap](https://alecondorelli.github.io/lbsailab-preview/sitemap/): Crawlable public site directory
+
+## Batch Data
+### Spring 2026 Batch
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/
+- Status: past
+- Start date: 2026-04-10
+- End date: 2026-06-05
+- Teams: 9
+- Builders: 22
+- Mentors: 4
+- Partner: Google DeepMind
+
+### Fall 2026 Batch
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/
+- Status: current
+- Teams: 9
+
+## Team Pages
+### 1MBA
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/1mba/
+- Focus area: Academic planning
+- Status: In development
+- Summary: The team is developing an academic requirements assistant that brings together readings, preparation and other requirements from a student’s Canvas courses.
+- User need: Students have to search differently organised Canvas courses to find readings, preparation and upcoming requirements.
+- Product approach: Use AI to interpret inconsistent course content and extract upcoming requirements into a straightforward student interface.
+- Next step: Test with students and check that extracted requirements are complete and accurate.
+
+### Breadcrumb
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/breadcrumb/
+- Focus area: Event discovery
+- Status: In development
+- Summary: The team is developing personalised discovery of career, cultural and social events across London, building on its Roundabout LBS calendar product.
+- User need: London events are scattered across websites, and attending alone can be a barrier for students.
+- Product approach: Find and organise events, learn from saves and skips, and help interested students connect to attend together.
+- Next step: Compare personalised recommendations with a simple baseline using student feedback.
+
+### Briefd
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/briefd/
+- Focus area: Events and opportunity discovery
+- Status: Prototype / batch build
+- Summary: LBS one master calendar and discovery and matching platform for events and jobs.
+- Product link: https://briefd.lbsailab.com
+
+### EMS++
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/ems-plus-plus/
+- Focus area: Academic planning / MBA workflow
+- Status: Prototype / batch build
+- Summary: EMS++ is a curriculum planner for LBS MBAs that turns elective selection, concentration tracking, and timetable management into a single coherent view. Built in Next.js with a full admin pipeline for curriculum updates, it replaces a tangle of spreadsheets with something that actually fits how students plan their year.
+- Product link: https://www.emsplusplus.com
+
+### EventOS
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/eventos/
+- Focus area: Club operations / Event automation
+- Status: Prototype / batch build
+- Summary: EventOS is an AI-powered event planning platform that assists organisers with club event planning. It predicts expected sign-up numbers to help determine appropriate venue sizing, and automatically populates forms related to venue booking, catering, and registration. All generated information can be reviewed and edited before submission, giving organisers full control over the final details.
+
+### FundEd
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/funded/
+- Focus area: Admissions / Funding discovery
+- Status: Prototype / batch build
+- Summary: A discovery and matching platform that attracts top talent globally to LBS and makes finding the right funding opportunity easy and simple for prospective students.
+- Product link: https://funded.lbsailab.com
+
+### LBS Compass
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/lbs-compass/
+- Focus area: Onboarding / Knowledge assistant
+- Status: Prototype / batch build
+- Summary: LBS knowledge base chatbot designed mainly for incoming students to help them navigate onboarding and first months at LBS.
+- Product link: https://compass.lbsailab.com
+
+### LBSOne
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/lbsone/
+- Focus area: Student services
+- Status: In development
+- Summary: The team is developing a student app that brings academic, career, event, room booking and club services together in one interface.
+- User need: Academic, career, event, room booking and club services are spread across separate apps, pages and calendars.
+- Product approach: Start with a central dashboard over existing services, with an eventual assistant that can carry out actions across integrations.
+- Next step: Establish access to the underlying services and define an initial workflow to validate.
+
+### London Eats Pal
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/london-eats-pal/
+- Focus area: Campus life / Local discovery
+- Status: Prototype / batch build
+- Summary: A discovery platform to find top-rated cafes and restaurants just minutes from campus, with honest reviews from fellow LBS students. Whether one is grabbing a quick coffee or heading out for a team dinner, we've got it covered.
+- Product link: https://londoneatspal.lbsailab.com/
+
+### Off-Campus Compass
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/off-campus-compass/
+- Focus area: Student onboarding
+- Status: In development
+- Summary: The team is developing an onboarding assistant for incoming international students, using approved LBS policies, documents and FAQs.
+- User need: Incoming international students face fragmented onboarding information, while staff receive repeated questions.
+- Product approach: Answer onboarding questions using school information, with a focus on reliable answers and maintainable guidance.
+- Next step: Test answers with administrators and future incoming or exchange students.
+
+### RA1
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/ra1/
+- Focus area: Club finance
+- Status: In development
+- Summary: The team is developing a club treasury assistant for expense submission, receipt checking, approval and reimbursement tracking.
+- User need: Students lack visibility into reimbursement progress, while treasurers manually check receipts and update spreadsheets.
+- Product approach: Bring submissions and tracking together, extract receipt details, check claim completeness and provide treasurers with budget visibility.
+- Next step: Validate the reimbursement workflow and how it fits existing club processes.
+
+### RecruitSmart LBS
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/recruitsmart-lbs/
+- Focus area: Career AI / Student workflow
+- Status: Prototype / batch build
+- Summary: RecruitSmart LBS is an AI-powered job search co-pilot built exclusively for LBS students. It combines a personalised target company list, networking CRM, job application tracker, and 24/7 AI coaching, all structured around the Career Centre's TIER framework.
+- Product link: https://recruitsmart.lbsailab.com
+
+### RoboTrade
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/robotrade/
+- Focus area: Investment research
+- Status: In development
+- Summary: The team is developing an investment research dashboard that tracks companies and summarises filings, earnings calls, market data and news.
+- User need: Investors collect filings, earnings calls, market data and news from many sources during each reporting cycle.
+- Product approach: Update tracked companies automatically, highlight changes and link every figure or finding to its source.
+- Next step: Track five companies during Q3 earnings season and compare results with a manual research baseline.
+
+### Simply AI
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/simply-ai/
+- Focus area: Campus navigation
+- Status: In development
+- Summary: The team is developing indoor campus navigation for rooms, facilities and step free routes.
+- User need: LBS buildings can be difficult to navigate, and existing floor plans do not provide turn by turn directions.
+- Product approach: Digitise floor plans into a routing graph, locate the starting point using QR codes or landmarks, and interpret natural language requests.
+- Next step: Validate routes and location identification; explore timetable integration for contextual questions.
+
+### The Key for Sussex
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/the-key-for-sussex/
+- Focus area: Recruiting
+- Status: In development
+- Summary: The team is developing a recruiting tracker for applications, deadlines, coffee chats and next actions.
+- User need: Recruiting information is spread across email, career platforms, WhatsApp and club groups.
+- Product approach: Aggregate recruiting sources, surface relevant actions and allow students to ask questions about their pipeline.
+- Next step: Validate the workflow manually before automating it.
+
+### Vishmay
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/vishmay/
+- Focus area: Student housing
+- Status: In development
+- Summary: The team is developing a housing platform connecting incoming students with compatible flatmates and current students handing over leases.
+- User need: Housing and flatmate information is scattered across chats and a spreadsheet that is difficult to keep current.
+- Product approach: Bring flatmate discovery and lease handovers into one place. The matching method is still to be defined.
+- Next step: Test participation through signups, groups formed and leases transferred.
+
+### Wayfinder
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/wayfinder/
+- Focus area: Campus navigation / Mobile utility
+- Status: Prototype / batch build
+- Summary: A mobile app to help people find rooms and facilities across the LBS campuses.
+- Product link: https://wayfinder.lbsailab.com
+
+### Zentra
+- URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/zentra/
+- Focus area: Legal billing / Professional services
+- Status: Prototype / batch build
+- Summary: Zentra is focused on the legal billing workflow, helping professional services teams generate client WIP updates and track fees with AI. The team is validating the opportunity with law firms first, with the potential to apply the product more broadly across professional services.
+- Product link: https://zentra.lbsailab.com
+- User need: The team is addressing the legal billing workflow, with an intention to apply more broadly to professional services.
+- Product approach: AI-generated client WIP updates and fee tracking.
+- Next step: Intense ICP discovery, customer interviews, and hypothesis validation, with a goal of finding a design partner or law firm trial by the end of summer 2026.
+
+## Academic Lead And Mentors
+- [Kostis Christodoulou](https://alecondorelli.github.io/lbsailab-preview/mentors/#academic-lead-kostis-christodoulou): Academic lead supporting the academic direction of the Lab
+- [Akshay Nagpal](https://alecondorelli.github.io/lbsailab-preview/mentors/#mentor-akshay-nagpal): Technical Mentor - Technical reviews, implementation choices, and AI product shipping.
+- [Ramakrishnan Lokanathan](https://alecondorelli.github.io/lbsailab-preview/mentors/#mentor-ramakrishnan-lokanathan): Technical Mentor - Agentic engineering, prototype architecture, and build velocity.
+- [Rhea Bisaria](https://alecondorelli.github.io/lbsailab-preview/mentors/#mentor-rhea-bisaria): Product Mentor - Product strategy, customer insight, and launch readiness.
+- [Zara Mogadasi](https://alecondorelli.github.io/lbsailab-preview/mentors/#mentor-zara-mogadasi): Product Mentor - Product discovery, user feedback loops, and clearer positioning.
+
+## Technical Discovery Files
+- [llms.txt](https://alecondorelli.github.io/lbsailab-preview/llms.txt): Short AI discovery file
+- [llms-full.txt](https://alecondorelli.github.io/lbsailab-preview/llms-full.txt): Full AI discovery file
+- [XML sitemap index](https://alecondorelli.github.io/lbsailab-preview/sitemap-index.xml): Canonical XML sitemap
+- [Image sitemap](https://alecondorelli.github.io/lbsailab-preview/image-sitemap.xml): Image discovery sitemap
+- [Atom feed](https://alecondorelli.github.io/lbsailab-preview/feed.xml): Public page and team feed
+- [Robots.txt](https://alecondorelli.github.io/lbsailab-preview/robots.txt): Crawler directives

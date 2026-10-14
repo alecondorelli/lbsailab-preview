@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <!-- Public feed for canonical LBS AI Lab pages and Spring 2026 Batch team pages -->
+  <title>LBS AI Lab</title>
+  <subtitle>LBS AI Lab helps London Business School participants build AI products for LBS workflows</subtitle>
+  <link href="https://alecondorelli.github.io/lbsailab-preview/feed.xml" rel="self" />
+  <link href="https://alecondorelli.github.io/lbsailab-preview/" />
+  <id>https://alecondorelli.github.io/lbsailab-preview/</id>
+  <updated>2026-10-08T00:00:00.000Z</updated>
+  <author>
+    <name>London Business School</name>
+  </author>
+  <entry>
+    <title>LBS AI Lab</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>LBS AI Lab helps London Business School participants build AI products for LBS workflows</summary>
+  </entry>
+  <entry>
+    <title>About LBS AI Lab</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/about/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/about/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>LBS AI Lab helps participants get involved in AI solution development at London Business School</summary>
+  </entry>
+  <entry>
+    <title>Batches</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>LBS AI Lab batches bring together participants for a cycle of discovery, product development, evaluation, and iteration</summary>
+  </entry>
+  <entry>
+    <title>Spring 2026 Batch</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>Meet the Spring 2026 Batch of LBS AI Lab teams building AI products for LBS workflows</summary>
+  </entry>
+  <entry>
+    <title>Fall 2026 Batch</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>Nine selected teams developing projects for LBS workflows.</summary>
+  </entry>
+  <entry>
+    <title>1MBA</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/1mba/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/1mba/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>MBA course preparation in one place.</summary>
+  </entry>
+  <entry>
+    <title>LBSOne</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/lbsone/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/lbsone/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>One interface for everyday LBS services.</summary>
+  </entry>
+  <entry>
+    <title>Off-Campus Compass</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/off-campus-compass/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/off-campus-compass/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>LBS guidance for students moving to London.</summary>
+  </entry>
+  <entry>
+    <title>RA1</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/ra1/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/ra1/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>Club expenses from submission to reimbursement.</summary>
+  </entry>
+  <entry>
+    <title>Vishmay</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/vishmay/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/vishmay/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>Find flatmates and connect with lease handovers.</summary>
+  </entry>
+  <entry>
+    <title>Breadcrumb</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/breadcrumb/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/breadcrumb/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>Discover London events and people to go with.</summary>
+  </entry>
+  <entry>
+    <title>The Key for Sussex</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/the-key-for-sussex/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/the-key-for-sussex/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>Keep applications, deadlines and coffee chats together.</summary>
+  </entry>
+  <entry>
+    <title>RoboTrade</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/robotrade/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/robotrade/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>Company research with sources attached.</summary>
+  </entry>
+  <entry>
+    <title>Simply AI</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/simply-ai/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/simply-ai/</id>
+    <updated>2026-10-08T00:00:00.000Z</updated>
+    <summary>Find rooms, facilities and step free campus routes.</summary>
+  </entry>
+  <entry>
+    <title>RecruitSmart LBS</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/recruitsmart-lbs/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/recruitsmart-lbs/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>An AI-powered job search co-pilot built for LBS students.</summary>
+  </entry>
+  <entry>
+    <title>London Eats Pal</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/london-eats-pal/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/london-eats-pal/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>A discovery platform for top-rated cafes and restaurants near campus.</summary>
+  </entry>
+  <entry>
+    <title>EMS++</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/ems-plus-plus/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/ems-plus-plus/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>A coherent curriculum planner for MBA elective selection and timetable management.</summary>
+  </entry>
+  <entry>
+    <title>LBS Compass</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/lbs-compass/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/lbs-compass/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>A knowledge-base chatbot for incoming students navigating LBS.</summary>
+  </entry>
+  <entry>
+    <title>FundEd</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/funded/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/funded/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>A funding discovery and matching platform for prospective LBS students.</summary>
+  </entry>
+  <entry>
+    <title>Briefd</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/briefd/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/briefd/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>One master calendar for LBS events, jobs, and opportunities.</summary>
+  </entry>
+  <entry>
+    <title>Wayfinder</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/wayfinder/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/wayfinder/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>A mobile guide to rooms and facilities across LBS campuses.</summary>
+  </entry>
+  <entry>
+    <title>EventOS</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/eventos/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/eventos/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>AI-assisted club event planning, venue sizing, and form generation.</summary>
+  </entry>
+  <entry>
+    <title>Zentra</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/zentra/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/zentra/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>AI-generated client WIP updates and fee tracking for legal billing.</summary>
+  </entry>
+  <entry>
+    <title>Mentors</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/mentors/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/mentors/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>Meet the product and technical mentors supporting LBS AI Lab teams</summary>
+  </entry>
+  <entry>
+    <title>Apply</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/apply/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/apply/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>Apply to join the next LBS AI Lab batch and build AI products for LBS workflows</summary>
+  </entry>
+  <entry>
+    <title>Contact</title>
+    <link href="https://alecondorelli.github.io/lbsailab-preview/contact/" />
+    <id>https://alecondorelli.github.io/lbsailab-preview/contact/</id>
+    <updated>2026-06-16T00:00:00.000Z</updated>
+    <summary>Contact LBS AI Lab for questions about batches, mentoring, partnerships, user testing, or participant-built AI products</summary>
+  </entry>
+</feed>

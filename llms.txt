@@ -1,0 +1,50 @@
+# LBS AI Lab
+
+> LBS AI Lab helps London Business School participants build AI products for LBS workflows.
+
+LBS AI Lab is a hands-on AI lab for the London Business School community. It helps participants get involved in AI solution development at the School, from identifying opportunities to prototyping and deploying useful products for the LBS community.
+
+The Spring 2026 Batch was run in partnership with Google DeepMind.
+
+## Primary Pages
+- [Home](https://alecondorelli.github.io/lbsailab-preview/): LBS AI Lab helps London Business School participants build AI products for LBS workflows
+- [About LBS AI Lab](https://alecondorelli.github.io/lbsailab-preview/about/): How the Lab helps participants get involved in AI solution development at London Business School
+- [Batches](https://alecondorelli.github.io/lbsailab-preview/batches/): Batch projects for teams building AI products for LBS workflows
+- [Spring 2026 Batch](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/): Nine teams building AI products for LBS workflows
+- [Mentors](https://alecondorelli.github.io/lbsailab-preview/mentors/): Product, technical, and academic guidance for LBS AI Lab teams
+- [Apply](https://alecondorelli.github.io/lbsailab-preview/apply/): Contact the Lab about participation
+- [Contact](https://alecondorelli.github.io/lbsailab-preview/contact/): Contact LBS AI Lab about batches, mentoring, partnerships, and participant-built AI products
+
+## Fall 2026 Batch Teams
+- [Fall 2026 Batch](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/): Current batch with nine selected teams
+- [1MBA](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/1mba/): MBA course preparation in one place.
+- [LBSOne](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/lbsone/): One interface for everyday LBS services.
+- [Off-Campus Compass](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/off-campus-compass/): LBS guidance for students moving to London.
+- [RA1](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/ra1/): Club expenses from submission to reimbursement.
+- [Vishmay](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/vishmay/): Find flatmates and connect with lease handovers.
+- [Breadcrumb](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/breadcrumb/): Discover London events and people to go with.
+- [The Key for Sussex](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/the-key-for-sussex/): Keep applications, deadlines and coffee chats together.
+- [RoboTrade](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/robotrade/): Company research with sources attached.
+- [Simply AI](https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/simply-ai/): Find rooms, facilities and step free campus routes.
+
+## Spring 2026 Batch Teams
+- [RecruitSmart LBS](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/recruitsmart-lbs/): An AI-powered job search co-pilot built for LBS students.
+- [London Eats Pal](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/london-eats-pal/): A discovery platform for top-rated cafes and restaurants near campus.
+- [EMS++](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/ems-plus-plus/): A coherent curriculum planner for MBA elective selection and timetable management.
+- [LBS Compass](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/lbs-compass/): A knowledge-base chatbot for incoming students navigating LBS.
+- [FundEd](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/funded/): A funding discovery and matching platform for prospective LBS students.
+- [Briefd](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/briefd/): One master calendar for LBS events, jobs, and opportunities.
+- [Wayfinder](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/wayfinder/): A mobile guide to rooms and facilities across LBS campuses.
+- [EventOS](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/eventos/): AI-assisted club event planning, venue sizing, and form generation.
+- [Zentra](https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/zentra/): AI-generated client WIP updates and fee tracking for legal billing.
+
+## Related Institutional Links
+- [London Business School](https://www.london.edu/): The parent institution
+- [Data Science & AI Initiative](https://www.london.edu/faculty-and-research/data-science-and-ai-initiative): The London Business School initiative connected to the Lab
+- [Google DeepMind](https://deepmind.google/): Spring 2026 Batch partner
+
+## Technical Discovery
+- [Full AI discovery file](https://alecondorelli.github.io/lbsailab-preview/llms-full.txt): Extended site context
+- [XML sitemap](https://alecondorelli.github.io/lbsailab-preview/sitemap-index.xml): Canonical public page sitemap
+- [Image sitemap](https://alecondorelli.github.io/lbsailab-preview/image-sitemap.xml): Canonical image sitemap
+- [Atom feed](https://alecondorelli.github.io/lbsailab-preview/feed.xml): Updated public page and team feed
