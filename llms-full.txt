@@ -47,7 +47,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing an academic requirements assistant that brings together readings, preparation and other requirements from a student’s Canvas courses.
 - User need: Students have to search differently organised Canvas courses to find readings, preparation and upcoming requirements.
 - Product approach: Use AI to interpret inconsistent course content and extract upcoming requirements into a straightforward student interface.
-- Next step: Test with students and check that extracted requirements are complete and accurate.
+- Next step: Build a prototype covering one term of a student’s courses and test it with at least 10 MBA students. Measure time saved, missed requirements caught and the estimated cost per student.
 
 ### Breadcrumb
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/breadcrumb/
@@ -56,7 +56,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing personalised discovery of career, cultural and social events across London, building on its Roundabout LBS calendar product.
 - User need: London events are scattered across websites, and attending alone can be a barrier for students.
 - Product approach: Find and organise events, learn from saves and skips, and help interested students connect to attend together.
-- Next step: Compare personalised recommendations with a simple baseline using student feedback.
+- Next step: Build a version classmates use regularly, learn from saves and skips, and assess whether students discover new events and attend together.
 
 ### Briefd
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/briefd/
@@ -99,7 +99,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing a student app that brings academic, career, event, room booking and club services together in one interface.
 - User need: Academic, career, event, room booking and club services are spread across separate apps, pages and calendars.
 - Product approach: Start with a central dashboard over existing services, with an eventual assistant that can carry out actions across integrations.
-- Next step: Establish access to the underlying services and define an initial workflow to validate.
+- Next step: Test a central dashboard with LBS students, demonstrate an initial AI use case such as coordinating a meeting, and develop a roadmap for further integration with school systems.
 
 ### London Eats Pal
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/london-eats-pal/
@@ -112,10 +112,10 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/off-campus-compass/
 - Focus area: Student onboarding
 - Status: In development
-- Summary: The team is developing an onboarding assistant for incoming international students, using approved LBS policies, documents and FAQs.
+- Summary: The team is developing an onboarding assistant for incoming international and exchange students, using approved LBS policies, documents and FAQs.
 - User need: Incoming international students face fragmented onboarding information, while staff receive repeated questions.
 - Product approach: Answer onboarding questions using school information, with a focus on reliable answers and maintainable guidance.
-- Next step: Test answers with administrators and future incoming or exchange students.
+- Next step: Test and verify answers with administration teams, then plan a partial rollout for a future intake, including possible use by Spring exchange students.
 
 ### RA1
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/ra1/
@@ -124,7 +124,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing a club treasury assistant for expense submission, receipt checking, approval and reimbursement tracking.
 - User need: Students lack visibility into reimbursement progress, while treasurers manually check receipts and update spreadsheets.
 - Product approach: Bring submissions and tracking together, extract receipt details, check claim completeness and provide treasurers with budget visibility.
-- Next step: Validate the reimbursement workflow and how it fits existing club processes.
+- Next step: Build a workflow where students submit and track claims, receipt data is extracted and checked, and treasurers review claims and monitor event and annual budgets.
 
 ### RecruitSmart LBS
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/recruitsmart-lbs/
@@ -140,7 +140,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing an investment research dashboard that tracks companies and summarises filings, earnings calls, market data and news.
 - User need: Investors collect filings, earnings calls, market data and news from many sources during each reporting cycle.
 - Product approach: Update tracked companies automatically, highlight changes and link every figure or finding to its source.
-- Next step: Track five companies during Q3 earnings season and compare results with a manual research baseline.
+- Next step: Track five companies through Q3 earnings, aiming to halve research time against a manual baseline. Link findings to sources, measure cost per update and document limitations.
 
 ### Simply AI
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/simply-ai/
@@ -149,7 +149,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing indoor campus navigation for rooms, facilities and step free routes.
 - User need: LBS buildings can be difficult to navigate, and existing floor plans do not provide turn by turn directions.
 - Product approach: Digitise floor plans into a routing graph, locate the starting point using QR codes or landmarks, and interpret natural language requests.
-- Next step: Validate routes and location identification; explore timetable integration for contextual questions.
+- Next step: Cover teaching rooms and campus facilities with searchable routes and a step free option. Use pilot feedback and discussions with Facilities and IT to decide on further integrations.
 
 ### The Key for Sussex
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/the-key-for-sussex/
@@ -158,7 +158,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing a recruiting tracker for applications, deadlines, coffee chats and next actions.
 - User need: Recruiting information is spread across email, career platforms, WhatsApp and club groups.
 - Product approach: Aggregate recruiting sources, surface relevant actions and allow students to ask questions about their pipeline.
-- Next step: Validate the workflow manually before automating it.
+- Next step: Validate the problem with students, send manual weekly recruiting reports for two to three weeks, then build an automatically updated tracker and action report.
 
 ### Vishmay
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/autumn-2026/vishmay/
@@ -167,7 +167,7 @@ This file gives AI assistants and crawlers a concise, canonical map of the publi
 - Summary: The team is developing a housing platform connecting incoming students with compatible flatmates and current students handing over leases.
 - User need: Housing and flatmate information is scattered across chats and a spreadsheet that is difficult to keep current.
 - Product approach: Bring flatmate discovery and lease handovers into one place. The matching method is still to be defined.
-- Next step: Test participation through signups, groups formed and leases transferred.
+- Next step: Aim for 30% of the incoming cohort and 20% of current students to sign up, with flatshare groups formed and leases handed over through the platform.
 
 ### Wayfinder
 - URL: https://alecondorelli.github.io/lbsailab-preview/batches/spring-2026/wayfinder/
